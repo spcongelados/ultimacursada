@@ -1,0 +1,10 @@
+Juan Perez
+15.6 18.9
+Ana Garcia
+17.5 16.2
+Carlos Lopez
+14.0 15.8
+Maria Gomez
+19.2 20.0
+Luis Rodriguez
+16.3 14.5

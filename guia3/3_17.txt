@@ -1,0 +1,16 @@
+Juan Perez
+3
+120.50 N
+100.00 S
+200.00 S
+Maria Lopez
+2
+150.00 S
+80.00 N
+Carlos Gomez
+4
+50.00 S
+60.00 S
+70.00 S
+80.00 S
+*****

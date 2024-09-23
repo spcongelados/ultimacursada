@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project5_10.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="32"/>
+        <CursorPos X="5" Y="56"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="36" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="57" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="34" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="36" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="57" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="34" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="36" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="38" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="39" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="40" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="41" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="42" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="44" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="45" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="46" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="42" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="44" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="45" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="46" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="42" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="44" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="45" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="46" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="42" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="48" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="50" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="51" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="52" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="53" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="project5_10.lpr"/>
+        <Caret Line="54" TopLine="35"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
