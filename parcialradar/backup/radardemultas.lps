@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="radardemultas.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="190"/>
+        <CursorPos X="66" Y="207"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="radardemultas.lpr"/>
+        <Caret Line="196" Column="18" TopLine="147"/>
+      </Position>
+      <Position>
+        <Filename Value="radardemultas.lpr"/>
+        <Caret Line="46" Column="22" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="radardemultas.lpr"/>
+        <Caret Line="84" Column="10" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="radardemultas.lpr"/>
+        <Caret Line="138" Column="34" TopLine="129"/>
+      </Position>
+      <Position>
+        <Filename Value="radardemultas.lpr"/>
+        <Caret Line="158" Column="24" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="radardemultas.lpr"/>
+        <Caret Line="173" Column="57" TopLine="148"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
