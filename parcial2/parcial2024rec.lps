@@ -6,11 +6,12 @@
     <BuildModes Active="Default"/>
     <Units>
       <Unit>
-        <Filename Value="project8_6.lpr"/>
+        <Filename Value="parcial2024rec.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos Y="16"/>
-        <UsageCount Value="21"/>
+        <TopLine Value="24"/>
+        <CursorPos X="39" Y="27"/>
+        <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>

@@ -14,8 +14,22 @@ begin
   end;
 end;
 
-
+function binaria(vec:tv;pri,ult:byte;x:real):byte;
+var
+  medio:byte;
+begin
+  medio:= (pri+ult) div 2;
+  if pri>ult then
+    binaria:=0
+  else if x=vec[medio] then
+    binaria:=medio
+  else if x>vec[medio] then
+    binaria:=binaria(vec,medio+1,ult,x)
+  else if x<vec[medio] then
+    binaria:=binaria(vec,pri,medio-1,x);
+end;
 
 begin
+
 end.
 
